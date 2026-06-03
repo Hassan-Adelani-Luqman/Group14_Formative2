@@ -1,0 +1,20 @@
+# Python environment
+.venv/
+
+# Dataset — large files, downloaded via kagglehub at runtime
+data/
+archive (11).zip
+
+# Model checkpoints — large .h5 weight files
+checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
